@@ -1,3 +1,5 @@
+#!/bin/python3
+
 import game_state
 
 def main():
